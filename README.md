@@ -1,3 +1,3 @@
 # Kokoa Clone 2023 Update
 
-Css got so much botter!
+HTML and Css are so much fun!
